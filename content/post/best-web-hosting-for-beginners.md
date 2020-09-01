@@ -3,7 +3,7 @@ author = "Hugo Authors"
 date = 2020-09-01T04:04:29Z
 description = "Do you have a Wordpress blog but not happy with the hosting service you use, I can feel your pain. What if I tell you that it is really simple to manage a Wordpress blog. "
 draft = true
-feature_image = ""
+feature_image = "/images/cloudways-promo-code.png"
 tags = []
 title = "Best Web Hosting for Beginners"
 
