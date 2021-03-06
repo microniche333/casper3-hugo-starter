@@ -8,6 +8,9 @@ fields:
 - type: text
   name: description
   label: description
+- type: file
+  name: feature_image
+  label: feature_image
 - type: datetime
   name: date
   label: date
@@ -20,9 +23,6 @@ fields:
   type: tag_list
   default: []
   label: tags
-- type: file
-  name: feature_image
-  label: feature_image
 pages:
 - content/homepage/homepage-sample.md
 - content/post/best-web-hosting-for-beginners.md
