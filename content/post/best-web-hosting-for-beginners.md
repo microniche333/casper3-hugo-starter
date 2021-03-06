@@ -4,10 +4,10 @@ date = 2020-09-01T04:04:29Z
 description = "Do you have a Wordpress blog but not happy with the hosting service you use, I can feel your pain. What if I tell you that it is really simple to manage a Wordpress blog. "
 feature_image = "/images/cloudways-promo-code.png"
 tags = []
-title = "Best Web Hosting for Beginners"
+title = "Bestest Web Hosting for Beginners"
 
 +++
-## **What is Managed Wordpress Hosting?**
+    What is Managed Wordpress Hosting?
 
 **Managed WordPress hosting** is a hosting that is specifically made for WordPress users only.
 
